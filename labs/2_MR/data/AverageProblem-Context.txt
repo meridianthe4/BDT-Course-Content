@@ -1,0 +1,6 @@
+Notice the first value in each row is a county name, followed by the state. 
+The third value is a unique ID for the county. The remaining values represent median 
+incomes from various years. 
+For example, the 10th value in each row is the median household income for that county 
+for the year 2000. This is the column you are going to compute the average of for each 
+state.
